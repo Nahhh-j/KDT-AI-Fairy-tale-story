@@ -89,6 +89,8 @@
 # 기타
 | 기획서 | 개발 문서 | FIGMA |
 |---|---|---|
-| <img src="Github/1.png" alt="프로젝트 기획서" width="250"> <br> [: 기획서 바로가기](https://docs.google.com/presentation/d/1HNkpyD14DehrC5HX0xRjjt9pCOVeQ_kOzbrUtWYKWOs/edit?usp=sharing "기획서") | <img src="Github/2.png" alt="개발 문서" width="250"> <br> [: 개발 문서 바로가기](https://drive.google.com/file/d/1qCJREg2ePCwe8FxI8i0uIsMqt5f-Fuoa/view?usp=sharing "개발문서") | <img src="Github/피그마.png" alt="디자인" width="150"> <br> [: FIGMA 바로가기](https://www.figma.com/file/NlNpKpsTQgHqsgKHgR1YgQ/%EC%84%B1%EB%83%A5%ED%8C%94%EC%9D%B4-%EC%86%8C%EB%85%80?type=design&node-id=1%3A3&mode=design&t=IGUO9agunTbuli8r-1 "Figma") |
+| <img src="https://github.com/Nahhh-j/KDT-AI-Fairy-tale-story/assets/105144666/b301c7ed-a16c-45d2-8ae5-8c584f0df231" alt="프로젝트 기획서" width="250"> <br> [: 기획서 바로가기](https://docs.google.com/presentation/d/1HNkpyD14DehrC5HX0xRjjt9pCOVeQ_kOzbrUtWYKWOs/edit?usp=sharing "기획서") | <img src="https://github.com/Nahhh-j/KDT-AI-Fairy-tale-story/assets/105144666/b732f976-3c89-434e-9d0c-28090768228f" alt="개발 문서" width="250"> <br> [: 개발 문서 바로가기](https://drive.google.com/file/d/1qCJREg2ePCwe8FxI8i0uIsMqt5f-Fuoa/view?usp=sharing "개발문서") | <img src="https://github.com/Nahhh-j/KDT-AI-Fairy-tale-story/assets/105144666/fac1f854-34c4-4608-ae1d-1538296dbab1" alt="디자인" width="150"> <br> [: FIGMA 바로가기](https://www.figma.com/file/NlNpKpsTQgHqsgKHgR1YgQ/%EC%84%B1%EB%83%A5%ED%8C%94%EC%9D%B4-%EC%86%8C%EB%85%80?type=design&node-id=1%3A3&mode=design&t=IGUO9agunTbuli8r-1 "Figma") |
+
+
 
 </br></br>
