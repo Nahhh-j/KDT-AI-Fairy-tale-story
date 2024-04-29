@@ -89,6 +89,6 @@
 # 기타
 | 기획서 | 개발 문서 | FIGMA |
 |---|---|---|
-| <img src="Github/1.png" alt="프로젝트 기획서" width="250"><br>[: 기획서 바로가기](https://docs.google.com/presentation/d/1HNkpyD14DehrC5HX0xRjjt9pCOVeQ_kOzbrUtWYKWOs/edit?usp=sharing "기획서")| <img src="Github/2.png" alt="개발 문서" width="250"><br>[: 개발 문서 바로가기](https://drive.google.com/file/d/1qCJREg2ePCwe8FxI8i0uIsMqt5f-Fuoa/view?usp=sharing "개발문서") | <img src="Github/피그마.webp" alt="디자인" width="150"><br>[: FIGMA 바로가기](https://www.figma.com/file/NlNpKpsTQgHqsgKHgR1YgQ/%EC%84%B1%EB%83%A5%ED%8C%94%EC%9D%B4-%EC%86%8C%EB%85%80?type=design&node-id=1%3A3&mode=design&t=IGUO9agunTbuli8r-1 "Figma") |
+| <img src="Github/1.png" alt="프로젝트 기획서" width="250"> <br> [: 기획서 바로가기](https://docs.google.com/presentation/d/1HNkpyD14DehrC5HX0xRjjt9pCOVeQ_kOzbrUtWYKWOs/edit?usp=sharing "기획서") | <img src="Github/2.png" alt="개발 문서" width="250"> <br> [: 개발 문서 바로가기](https://drive.google.com/file/d/1qCJREg2ePCwe8FxI8i0uIsMqt5f-Fuoa/view?usp=sharing "개발문서") | <img src="Github/피그마.webp" alt="디자인" width="150"> <br> [: FIGMA 바로가기](https://www.figma.com/file/NlNpKpsTQgHqsgKHgR1YgQ/%EC%84%B1%EB%83%A5%ED%8C%94%EC%9D%B4-%EC%86%8C%EB%85%80?type=design&node-id=1%3A3&mode=design&t=IGUO9agunTbuli8r-1 "Figma") |
 
 </br></br>
