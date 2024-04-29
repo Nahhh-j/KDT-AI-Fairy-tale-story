@@ -1,37 +1,34 @@
-# 👸매일 듣는 동화 이야기
-![image](https://github.com/westnowise/imageftProject/assets/98007431/914762bc-28a6-4b60-ac2b-9c74535d4cf4)
+# 👸 매일 듣는 동화 이야기
+**프로젝트 기간 :** `2024. 04. 09` - `2024. 04. 26`
 
-### 👶체감형-교육 프로그램
+**framework :** <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
- 해당 프로젝트는 학습자인 만4~5세 유아들이 학습할 수 있는 체감형 교육 컨텐츠를 제작하고, 웹으로 배포하는 것을 목표로 한다.
+<br><br>
 
- 유아의 학습 활동은 인지 및 신체 발달, 지식을 향상시킬 수 있는 효율적인 방법으로,  학습자가 그린 그림을 웹캠으로 인식하여 배경과 피사체를 분리하고 피사체만 DB에 저장 후 동화 비디오에 합성하는 이미지 인식 동화 컨텐츠와. 학습자의 웹캠을 통해 학습자의 손 동작을 인식하여 화면 속 알맞은 금액의 동전을 바구니에 올바르게 넣는 모션 인식 게임을 제작하였다.
-
-
-
-## 🔖 Guide
-### Needed
+# 🔖 Start Guide
     python 3.11.7 # 7 이상 버전
     pip install -r requirement.txt
     pip install pydub simpleaudio # 오류 발생 가능
 
-pip install pydub 오류 발생 시
-1) Microsoft Visual C++ Build Tools 설치
+<br>
 
-https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/
+## pip install pydub 오류 발생 시
+1) `Microsoft Visual C++ Build Tools` 설치
 
-설치 시 "C++ 데스크톱 개발" 워크로드를 포함
+**참고 :** https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/
 
-
-2) ffmpeg 환경변수 설정
-   - ffmpeg 설치 https%3A%2F%2Fkminito.tistory.com%2F108
-  
-    echo %SDL_AUDIODRIVER%     # CMD
-    set SDL_AUDIODRIVER= (편집됨)
-
-3) 재부팅 후 pip install pydub 재실행
+**설치 시 "C++ 데스크톱 개발" 워크로드를 포함**
 
 
+2) `ffmpeg` 환경변수 설정
+   - `ffmpeg` 설치
+   
+**참고 :** https://kminito.tistory.com/108#google_vignette
+
+
+3) 재부팅 후 `pip install pydub` 재실행
+
+<br>
 
 ### Running
     python -m venv myvenv
@@ -41,25 +38,57 @@ https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/
     cd /Dproject
     python manage.py runserver
 
+<br><br>
 
+#  📝 프로젝트 개요
+> **이미지 인식 기술과 모션 트래킹을 활용한 창작 동화**
 
+<br>
 
+### 문제 의식
+- 유아 학습 효과를 높이기 위해 동화 기반 콘텐츠의 중요성을 강조
+- 전통적인 스토리텔링에 대한 부재
 
-## 👨‍👩‍👧‍👦Member
+### 가치
+- 기술을 통해 유저와 컨텐츠가 상호작용하며, 특별한 체험학습을 통해 호기심과 창의성을 만족시키는 것
+
+### 목표
+- 이미지 인식 기술과 모션 트래킹을 활용하여 유아가 직접 창작물 및 반응할 수 있는 컨텐츠 제작
+
+</br></br>
+| 사용자 | 서비스 메인 컬러 | 서비스 로고 |
+|---|---|---|
+| 5-7세 유아 |  **Yellow `#FFDC38`** | <img src="github/Mask group.png" width="150" height="150"> |
+
+</br></br>
+| 메인화면 | 이미지 인식 기술 | 모션 트래킹 |
+|---|---|---|
+| <img src="github/메인화면.png" width="250" height="180"> | <img src="github/객체인식_정답O.png" width="250" height="180"> | <img src="github/이미지_카메라버튼.png" width="250" height="180"> |
+
+</br></br>
+
+# 팀원 및 역할
 ### PM   
-|              | 역할                            | git |
-| ------------- | ---------------------------------- | ------------------- | 
-| 정하민 | 프로젝트 팀장 | |
-| 조나희 | UI, UX 디자인 | |
-| 임희승 | 컨텐츠 제작 | |
+|       이름       | 역할                           |
+| ------------- | ---------------------------------- | 
+| 정하민 | 프로젝트 팀장 |
+| 조나희 | UI, UX 디자인 |
+| 임희승 | 컨텐츠 제작 |
 
 ### Develop
-|               | 역할                             | git|
-| ------------- | ---------------------------------- | ------- | 
-| 송희도 | 개발 PL, DB 구축, 웹 제작 및 배포 ||
+| 이름                             | 역할|
+| ---------------------------------- | ------- | 
+| 송희도 | 개발 PL, DB 구축, 웹 제작 및 배포 |
 | 윤소현 | 모션인식,  웹 배포 ||
-| 이수현 | 모션인식, 프론트 ||
-| 박수아 | 영상처리, 프론트 ||
-| 조서현 | 이미지 전처리,  웹 제작 및 배포 ||
+| 이수현 | 모션인식, 프론트 |
+| 박수아 | 영상처리, 프론트 |
+| 조서현 | 이미지 전처리,  웹 제작 및 배포 |
 
+</br></br>
 
+# 기타
+| 기획서 | 개발 문서 | FIGMA |
+|---|---|---|
+| <img src="Github/1.png" alt="프로젝트 기획서" width="250"><br>[: 기획서 바로가기](https://docs.google.com/presentation/d/1HNkpyD14DehrC5HX0xRjjt9pCOVeQ_kOzbrUtWYKWOs/edit?usp=sharing "기획서")| <img src="Github/2.png" alt="개발 문서" width="250"><br>[: 개발 문서 바로가기](https://drive.google.com/file/d/1qCJREg2ePCwe8FxI8i0uIsMqt5f-Fuoa/view?usp=sharing "개발문서") | <img src="Github/피그마.webp" alt="디자인" width="150"><br>[: FIGMA 바로가기](https://www.figma.com/file/NlNpKpsTQgHqsgKHgR1YgQ/%EC%84%B1%EB%83%A5%ED%8C%94%EC%9D%B4-%EC%86%8C%EB%85%80?type=design&node-id=1%3A3&mode=design&t=IGUO9agunTbuli8r-1 "Figma") |
+
+</br></br>
